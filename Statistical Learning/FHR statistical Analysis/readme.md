@@ -1,6 +1,6 @@
 ## Fetal Health Rate
 
-The data might be found at [here!](https://archive.ics.uci.edu/ml/datasets/cardiotocography)
+The data might be found at [here!](https://archive.ics.uci.edu/ml/datasets/cardiotocography) In this folder, you might find the RData and Rhistory for replication and validation purposes. Additionally, it is the Markdown file (.Rmd), and the compiled pdf version. This research is the Statistical Learning final project, course leaded by phD. [Tamer Oraby](https://faculty.utrgv.edu/tamer.oraby/index.htm) at University of Texas Rio Grande Valley. The final purpose is the use of advance statistical learning method for classification and regression analysis.
 
 
 
