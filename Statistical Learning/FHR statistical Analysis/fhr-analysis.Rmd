@@ -74,7 +74,7 @@ To start building any model, the variable analysis is crucial. Let's take a look
 
 
 ```{r, echo=FALSE}
-load('.RData')
+load('fhr.RData')
 knitr::kable(head(df,2))
 ```
 
