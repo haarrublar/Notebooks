@@ -45,34 +45,6 @@ about the data, and classification for characterizing the data using the explana
 advance statistical leaning methods to analysis the dataset to make inferences.
 
 
-## Methods 
-
-
-In this section, all the methods for the multilinear regression analysis over the white wine are 
-presented in order.  This dataset is available for anyone on-line. The data information were 
-collected based on the red and white variants of the Portuguese "Vinho Verde" wine. The dataset 
-contains objective tests data such as:
-
-- Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides, Free Sulfur Dioxide, 
-Total Sulfur Dioxide, Density, pH, Sulphates, Alcohol.
-
-and sensory data such as:
-
-- Quality.
-
-
-This DATASET is highly versatile. Indeed, not only the DATASET source recommend multilinear 
-regression but also related papers introduce some other statistical methods to analyze, extract and 
-present data from this DATASET such as classification. Nevertheless,
-our aim will be to implement multilinear regression using the quality as the output variable.
-
- In each method, I decided to use it as numerical from 1 to 3, and as characters "normal", 
- "suspect", and "pathologic".  First, I take a quick look into the data:
- 
- 
- 
-
-
 
 
 
