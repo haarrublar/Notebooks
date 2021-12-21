@@ -367,7 +367,7 @@ regression. Classification trees perform a structural 1 and 0 (yes and no) decis
 branches representing attributes in the data, and leaves representing decisions.
 
 To perform this analysis I used "rpart" library (function at the same time) setting the
-R routine to treat our DATABASE as a categorical classication setting the method by
+R routine to treat our DATABASE as a categorical classification setting the method by
 "class".
 
 The summary expose each step showing the number of nodes, complexity parameter, class
