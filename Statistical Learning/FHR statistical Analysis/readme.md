@@ -572,6 +572,7 @@ I tried the neural network, LDA, and k-means method for classification ant the M
 
 
 | Method | MSE Training | MSE Testing |
+|--------|--------------|-------------|
 | Multinomial Log-Linear | 0.1235 | 0.1314 |
 | KNN | 0.058 | 0.0727 |
 | Tree Classification | 0.924 | 0.899 |
