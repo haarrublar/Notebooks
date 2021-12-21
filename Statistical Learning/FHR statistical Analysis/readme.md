@@ -458,7 +458,7 @@ Classification trees perform the analysis using the data variables on at a time,
 
 
 The decision plot shows that the variable importance in classifying the data plotting the
-mean value of short term variability in rst place. So, basically the tree classification
+mean value of short term variability in first place. So, basically the tree classification
 method used this variable as the principal variable to grouped the data.
 
 
@@ -478,7 +478,7 @@ After reading the documentation about rpart plots, and related packages I could 
 Here, I tried to use supported vector machine because of one important feature: overlapping data. The SVM method is optimal for generalizing the hyperplanes separation. How do we check for overlapping data? Well, the really descriptive data analysis plot allow us to check this type of overlapping behavior for two variable, and there would be importantly more overlapping characteristics for more than two variables.
 
 To perform SVM analysis, I load the "e1071" R package with the "svm" function training
-a support vector machine and making the classication analysis. Before starting the
+a support vector machine and making the classification analysis. Before starting the
 process, as the classification variable was not numerical I made the conversion and used
 the \tune" implementation over a sequence of size 10, and cost exponentially big.
 
