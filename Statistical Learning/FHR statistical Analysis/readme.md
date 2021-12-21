@@ -480,7 +480,7 @@ Here, I tried to use supported vector machine because of one important feature: 
 To perform SVM analysis, I load the "e1071" R package with the "svm" function training
 a support vector machine and making the classification analysis. Before starting the
 process, as the classification variable was not numerical I made the conversion and used
-the \tune" implementation over a sequence of size 10, and cost exponentially big.
+the "tune" implementation over a sequence of size 10, and cost exponentially big.
 
 #### Performance.
 The resulting colorful analysis plot describes the best model using color coding where darker regions imply better performance (accuracy) in the implementation. This is a visual way to explore the tuning implementation for SVM. So, we can observe that the best epsilon runs from 0 to 1, while the optimal cost is in between 110 and 40.
