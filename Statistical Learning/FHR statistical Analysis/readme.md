@@ -493,6 +493,7 @@ According to the tune method, the best model is:
 
 
 | SVM-Type: C-classification |
+|----------------------------|
 | SVM-Kernel: radial |
 | Cost: 64 |
 
