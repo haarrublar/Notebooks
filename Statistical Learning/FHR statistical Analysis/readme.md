@@ -383,10 +383,7 @@ This method split the original root node dropping a relative error from 1.0 to 0
 
 The CP plot evidence that the optimal number of nodes is 8 with an optimal CP equals to 0.01.
 
-Additionally, I present a tree development plot representing all branches and leaves at-
-tributes by plotting not only linear classication process but also three dimensional plot
-(each node step as the third dimension). This type of plot allow the reader to check the
-convergence in each node, and some important relations about the classied variables.
+Additionally, I present a tree development plot representing all branches and leaves attributes by plotting not only linear classification process but also three dimensional plot (each node step as the third dimension). This type of plot allow the reader to check the convergence in each node, and some important relations about the classified variables.
 Lastly, the confusion matrix:
 
 
