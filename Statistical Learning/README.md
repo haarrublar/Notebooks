@@ -1,6 +1,6 @@
 # Statistical Learning
 
-## Outlook
+## Outline
 
 This folder contains a recreation of the graduate class of Statistical Learning instructed by Professor Tamer Oraby at The University of Texas Rio Grande Valley with the classic book guide [Elements of Statistical Learning (ESL)](https://link.springer.com/book/10.1007/978-0-387-84858-7).
 
