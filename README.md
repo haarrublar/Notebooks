@@ -8,6 +8,8 @@ This repo purpose is creating a hub for all my graduate and undergraduate notes 
 
 This repo will not be distributed by undergraduate courses versus graduate courses fue to the fact I consider the undergraduate courses were imparted as graduate level, and also because not all courses will be in this repo. Indeed, most courses here will have coding and not all the courses had that code content within its syllabus. 
 
+Each course in this repo has its own `README.md` and coding files mostly Jupiter notebooks for simplicity.
+
 
 ## Courses
 
