@@ -24,4 +24,9 @@ The intention of this notebook is performing the coding not in R, software used 
     </div>
 
 
+    1.2. The `sklearn` library is primarily used for Machine Learning tasks rather than statistics tasks. It is designed to quickly perform basic Machine Learning calculations for supervised and unsupervised learning modeling. In class, Professor Tamer chose to perform a more thorough data extraction, and for this purpose, he calculated metrics such as `anova`. In such cases, we should use the `statsmodels.formula.api` library to build the linear regression model.
+
+    When performing the polinomial integration to the linear regression for checking non-linear interactions in between variables we use the `PolynomialFeatures` from the `sklearn.preprocessing` library. 
+    
+
 
